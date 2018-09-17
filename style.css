@@ -1,0 +1,20 @@
+body{
+  background-image: url(background.jpg);
+  height: 100vh;
+  background-size: auto;
+  background-position: left;
+  background-attachment: scroll;
+}
+
+.main-title{
+  font-size-adjust: vh10;
+  background-color: #915a3a;
+  text-align: center;
+  padding: 25px;
+  border-width: thin;
+}
+
+.nav-bar{
+  text-align: center;
+  padding: -10px
+}
