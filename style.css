@@ -5,16 +5,29 @@ body{
   background-position: left;
   background-attachment: scroll;
 }
+.generic-container{
+  width: 100%;
+
+}
 
 .main-title{
-  font-size-adjust: vh10;
+  font-family: 'Aguafina Script';
   background-color: #915a3a;
   text-align: center;
-  padding: 25px;
-  border-width: thin;
+  padding: 5px;
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-top: 5%;
+  border-color: white;
+  border-radius: 25px;
+  border-width: 2px;
 }
 
 .nav-bar{
   text-align: center;
-  padding: -10px
+  background-color: #a85bd8;
+  margin-left: 10%;
+  margin-right: 10%;
+  border-style: hidden;
+  border-radius: 25px;
 }
